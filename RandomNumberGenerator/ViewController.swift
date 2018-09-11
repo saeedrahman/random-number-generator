@@ -5,6 +5,9 @@
 //  Created by Saeed Rahman on 10/9/2018.
 //  Copyright © 2018 Saeed Rahman. All rights reserved.
 //
+//  Extension activities
+//  1. Modify the generateRandomNumber function to only generate numbers from 1-10
+//  2. Add functionality to keep a cumulative count of each number that is generated
 
 import UIKit
 
